@@ -35,17 +35,6 @@ More technical writeups will be linked here as they are verified and published.
 - **CTFs & security research:** reverse engineering, digital forensics, cryptography, web security
 - **Automation:** Python and Linux tooling
 
-### Tools
-
-`Python` · `Ghidra` · `Linux` · `Wireshark` · `Autopsy` · `Splunk` · `ELK` · `JADX` · `CyberChef` · `Git`
-
-### Selected achievements
-
-- Led **Zero Day Warriors**, a competitive CTF team.
-- **Highest-ranked Jordanian team** in the Black Hat MEA 2024 qualifying round (36th overall).
-- Earned **CDSA (Certified Defensive Security Analyst)**.
-- Contributed technical workshops and challenges to the **ASU Cyber Security Club**.
-
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/omar-mohammed-a1810a2bb) · [GitHub](https://github.com/ozrs2)
