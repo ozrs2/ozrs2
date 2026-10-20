@@ -1,57 +1,55 @@
 <div align="center">
 
-# Omar Mohammed
-### Cybersecurity Researcher | Malware Analysis • Reverse Engineering • DFIR
+# Omar Mohammed Jaradat
 
-*Breaking down complex attacks, one artifact at a time.*
+**Cybersecurity Researcher · Malware Analysis · Reverse Engineering · DFIR**
+
+*Turning binaries, telemetry and artifacts into clear, reproducible security research.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-ozrs2-181717?style=flat-square&logo=github)](https://github.com/ozrs2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omar-mohammed-a1810a2bb)
 
 </div>
 
-## About me
+---
 
-I'm a cybersecurity practitioner focused on **malware analysis, reverse engineering, digital forensics, incident response, and threat hunting**. I enjoy turning unfamiliar binaries, disk artifacts, network traffic, and logs into clear technical findings and reproducible research.
+### About
 
-My work spans hands-on investigations and competitive security challenges. I also enjoy knowledge-sharing and building the next generation of security talent through technical workshops and CTFs.
+I'm **Omar Mohammed Jaradat**, a cybersecurity practitioner interested in **malware analysis, reverse engineering, digital forensics, threat hunting, and incident response**. I investigate executable behavior, network traffic and operating-system artifacts, then document the evidence and methodology behind my conclusions.
 
-## Focus areas
+My work includes practical investigations, CTF challenges, scripting, and cybersecurity community training. I value accurate technical reporting and reproducible research.
 
-- **Malware analysis & reverse engineering:** static analysis, behavioral investigation, Windows and Linux binaries
-- **Digital forensics & incident response:** memory, disk, endpoint, and network artifacts
-- **Threat hunting & SOC:** investigative workflows with Splunk, ELK, and telemetry
-- **Security research & CTFs:** cryptography, web security, reverse engineering, and forensics
-- **Automation:** Python scripting for repeatable analysis
+### Research & writeups
 
-## Tools & technologies
+| Publication | Area | Focus |
+|---|---|---|
+| [PhantomRing — HTB Sherlock](writeups/hackthebox/PhantomRing.md) | Linux malware analysis | ELF triage, C2 configuration, host discovery, `io_uring`, investigation findings |
 
-`Python` · `Linux` · `Ghidra` · `Wireshark` · `Autopsy` · `Splunk` · `ELK` · `JADX` · `CyberChef` · `Git`
+More technical writeups will be linked here as they are verified and published.
 
-## Highlights
+### Areas of expertise
 
-- Led **Zero Day Warriors**, a competitive CTF team representing Jordan.
-- Top Jordanian team in the **Black Hat MEA 2024 qualifiers** (36th overall).
-- Earned **CDSA (Certified Defensive Security Analyst)** certification.
-- Helped organize cybersecurity learning activities and CTF challenges at **ASU Cyber Security Club**.
-- Completed hands-on threat hunting and forensics investigations across realistic attack scenarios.
+- **Malware analysis & reverse engineering:** ELF/PE triage, disassembly, control-flow analysis, indicators of compromise
+- **Digital forensics & incident response:** endpoint artifacts, disk and memory investigations, network evidence
+- **Threat hunting:** log analysis, adversary behavior, hypothesis-led investigations
+- **CTFs & security research:** reverse engineering, digital forensics, cryptography, web security
+- **Automation:** Python and Linux tooling
 
-## Selected research
+### Tools
 
-I am organizing my public work into clearly documented repositories, including:
+`Python` · `Ghidra` · `Linux` · `Wireshark` · `Autopsy` · `Splunk` · `ELK` · `JADX` · `CyberChef` · `Git`
 
-- Malware analysis and reverse-engineering case studies
-- Digital forensics and incident-response investigations
-- Threat-hunting notes, queries, and detection engineering experiments
-- CTF writeups with reproducible solution steps
+### Selected achievements
 
-*Featured repository links will appear here as projects are published.*
+- Led **Zero Day Warriors**, a competitive CTF team.
+- **Highest-ranked Jordanian team** in the Black Hat MEA 2024 qualifying round (36th overall).
+- Earned **CDSA (Certified Defensive Security Analyst)**.
+- Contributed technical workshops and challenges to the **ASU Cyber Security Club**.
 
-## Contact
+### Connect
 
-- [LinkedIn](https://www.linkedin.com/in/omar-mohammed-a1810a2bb)
-- [GitHub](https://github.com/ozrs2)
+[LinkedIn](https://www.linkedin.com/in/omar-mohammed-a1810a2bb) · [GitHub](https://github.com/ozrs2)
 
 ---
 
-<div align="center"><sub>Interested in collaborative research, defensive security engineering, and knowledge sharing.</sub></div>
+<div align="center"><sub>Research and writeups are for educational, defensive, and authorized security work.</sub></div>
